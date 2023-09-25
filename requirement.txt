@@ -1,0 +1,20 @@
+npm init  -y
+npm i chalk@4.1.0
+npm i connect-flash@0.1.1
+npm i cookie-parser@1.4.5
+npm i cors@2.8.5
+npm i dotenv@16.0.3
+npm i ejs@3.1.6
+npm i express@4.17.1
+npm i express-ejs-layouts@2.5.0
+npm i express-session@1.17.1
+npm i express-validator@6.10.1
+npm i method-override@3.0.0
+npm i mongodb@3.6.9
+npm i mongoose@5.12.13
+npm i morgan@1.10.0
+npm i multer@1.4.5-lts.1
+npm i validator@13.5.2
+npm i yargs@16.2.0
+npm i body-parser@1.20.2
+

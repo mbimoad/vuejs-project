@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Vue JS", 
+        "description": "VueJS is a progressive JavaScript framework used to develop interactive web interfaces", 
+        "className": "fa-brands fa-vuejs",
+        "chart": 95
+    },
+    {
+        "title": "Django", 
+        "description": "A framework is simply a collection of modules that facilitate development", 
+        "className": "fa-brands fa-python",
+        "chart": 97
+    },
+    {
+        "title": "CodeIgniter", 
+        "description": "a powerful PHP framework with a very small footprint", 
+        "className": "fa-solid fa-code",
+        "chart": 90
+    },
+    {
+        "title": "Scss/Sass", 
+        "description": "It's a superset of CSS, which means all valid CSS is also valid SCSS.", 
+        "className": "fa-brands fa-sass",
+        "chart": 100
+    }
+]

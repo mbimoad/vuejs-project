@@ -1,0 +1,24 @@
+[
+    {
+        "title": "Ingenios", 
+        "position": "Front End Web Developer", 
+        "date": "April 2023 - Present",
+        "description": "Working on redesign company profile website, developing features and solution to support the site, and maintaining the site",
+        "image": "ingenios.webp"
+    },
+    {
+        "title": "Pagaden Health Center", 
+        "position": "Full Stack Web Developer", 
+        "date": "Juli 2022 - September 2022",
+        "description": "Create A System for calculating patient data with Codeigniter at West Pagaden Public Health Center",
+        "image": "puskesmas.webp"
+    },
+    {
+        "title": "Web Developer Freelance", 
+        "position": "Full Stack Web Developer", 
+        "date": "Juli 2022 - September 2022",
+        "description": "Creating website for business client",
+        "image": "freelance.webp"
+    }
+
+]

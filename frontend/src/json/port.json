@@ -1,0 +1,40 @@
+[
+    {
+        "title": "Django Project", 
+        "description": "a high-level Python web framework that enables rapid development of secure and maintainable websites",
+        "link": "http://muhammadbimo.pythonanywhere.com/",
+        "image": "djangoproject.webp"
+    },
+    {
+        "title": "Wedding Invitation", 
+        "description": "a digital platform that allows engaged couples to create and send online invitations",
+        "link": "https://weddings-mit.000webhostapp.com/",
+        "image": "weddinginvitation.webp"
+    }, 
+    {
+        "title": "Real-time Patient Data Calculation", 
+        "description": "Health service facilities that carry out community health efforts and individual health efforts at the first level",
+        "link": "https://puskesmaspagadenbarat.000webhostapp.com/",
+        "image": "pagaden.webp"
+    },
+    {
+        "title": "Hike", 
+        "description": "Hiking is an activity of moderate difficulty, which involves walking walking on trails or paths, in trips of different duration",
+        "link": "https://mbimoad.github.io/Website-Slicing1/",
+        "image": "hike.webp"
+    },
+    {
+        "title": "Working From Home", 
+        "description": "a modern working arrangement where employees perform job responsibilities remotely",
+        "link": "https://mbimoad.github.io/landing-pages4/",
+        "image": "wfh.webp"
+    },
+    {
+        "title": "Portfolio Profile", 
+        "description": "a collection of work that demonstrates an individual's or organization's skills, accomplishments, and experiences",
+        "link": "https://muhammadbimo.000webhostapp.com/",
+        "image": "portfolio1.webp"
+    }
+    
+
+]
